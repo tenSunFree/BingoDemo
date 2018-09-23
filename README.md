@@ -26,5 +26,5 @@ https://play.google.com/store/apps/details?id=com.arcadegame.games.bingo.holiday
 
 備註
 --------
-所有圖片僅供學習交流之用, 請勿用於商業用途, 如有侵權請聯繫刪除, 謝謝
+僅供學習交流之用, 請勿用於商業用途, 如有侵權請聯繫刪除, 謝謝
 
