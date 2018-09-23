@@ -15,12 +15,12 @@ https://play.google.com/store/apps/details?id=com.arcadegame.games.bingo.holiday
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/pVGYbBo.png" width="150"/>
+  <img src="https://i.imgur.com/pVGYbBo.png" width="250"/>
 </p> 
 <p align="left">
-  <img src="https://i.imgur.com/pVGYbBo.png" width="150"/>
+  <img src="https://i.imgur.com/jY6wDRD.png" width="250"/>
 </p> 
 <p align="left">
-  <img src="https://i.imgur.com/pVGYbBo.png" width="150"/>
+  <img src="https://i.imgur.com/PiRbqO5.png" width="250"/>
 </p> 
 
